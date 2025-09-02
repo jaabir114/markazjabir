@@ -1,0 +1,5 @@
+{
+  "name": "Quran Halaqa Management",
+  "description": "A bilingual Arabic-Somali application for managing Quran memorization circles (Halaqa). It allows teachers to track student progress in memorization and revision, students to view their performance and notifications, and supervisors to oversee all students with statistics and reports.",
+  "requestFramePermissions": []
+}
